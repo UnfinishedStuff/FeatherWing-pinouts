@@ -1,7 +1,7 @@
 # FeatherWing-pinouts
 This repo contains a quickly put together list of pins used by Adafruit's FeatherWing boards.  It is probably incomplete and may contain errors.  Some boards have minimal detail because they're not really relevant to being run by a Pi, which is important because of.....reasons.
 
-An "X" indicates that the pin is used, a "o" indicates that the pin is optional.  Optional pins may indicate that at least one pin must be used, but the precise pin which is used can vary.  All pin numbers are given relative to 328p Feather boards.
+An "X" indicates that the pin is used, an "o" indicates that the pin is optional.  Optional pins may indicate that at least one pin must be used, but the precise pin which is used can vary.  All pin numbers are given relative to 328p Feather boards.  This data has also been uploaded as a .csv file, which may be more easy to read using e.g. Excel.
 
 |Board|URL|BAT|EN|USB|4|3|2|10|9|6|5|SCL|SDA|RST|3V|Aref|GND|A0|A1|A2|A3|A4|A5|A6|A7|SCK|MOSI|MISO|RX|TX|7|Notes|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
